@@ -3,3 +3,4 @@
  - Proje ile ilgili açıklamalar, Pptx sunum dosyası formatında eklenecektir.
  - Proje ile ilgili görev dağılımı ve planlama oluşturulacak ve sunum dosyasına eklenecektir.
  - Proje ile ilgili bilgiler Sunum dosyasına yüklendi.
+ - Projenin yükleneceği dosya HAS-Project Documents olarak ayarlandı.
