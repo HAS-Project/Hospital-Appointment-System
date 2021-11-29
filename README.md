@@ -5,3 +5,4 @@
  - Proje ile ilgili bilgiler Sunum dosyasına yüklendi.
  - Projenin yükleneceği dosya HAS-Project Documents olarak ayarlandı.
  - HAS-Project Documents dosyasına projenin PHP dosyaları eklendi.
+ - Randevuyu aldıktan sonra Anasayfaya dönmek için bir link yok!
