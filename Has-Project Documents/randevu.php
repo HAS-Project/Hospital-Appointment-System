@@ -247,6 +247,7 @@ echo '<p>'.$_SESSION['HastaIlName'].'</p>';
                         <div class="col-md-6" style="width: 500px">
 <input type="date" name="dates" value="<?php echo date('Y-m-d'); ?>" name="date" id="randevudate" class="form-control" ><br>
 <div class="saatbuttons">
+<a href="index.php"> çıkış yap </a>
 
 </div>
                      </div>
