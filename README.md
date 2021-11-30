@@ -7,3 +7,4 @@
  - HAS-Project Documents dosyasına projenin PHP dosyaları eklendi.
  - Hastanın randevuyu aldıktan sonra Anasayfaya dönmesi için bir link yok düzeltilmesi gerekiyor!
  - Sorun çözüldü, hastanın randevu aldıktan sonra anasayfaya dönmesi için href özelliği ile link yerleştirdim.
+ - Veritabanında oluşturulan tablolar eklenecektir.
