@@ -167,15 +167,15 @@ $(document).keyup( function(e){
 			</datalist>	
            </br>
                
+<center>
 
-
-
-            <button class = "btn btn-lg btn-primary btn-block" type = "submit" 
+              <button style="background-color:light blue;color:white;width:20%;" class = "btn btn-lg btn-primary btn-block" type = "submit" 
                name = "SignIn">Sign In</button>
          </form>
 
 			
-         Click here to clean <a href = "logout.php" tite = "Logout">Session
+         Click here to clean <a href = "logout.php" tite = "Logout">Session 
+		 </center>
           </div>
         </div>
       </div> 
