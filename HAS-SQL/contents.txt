@@ -1,1 +1,1 @@
-
+Veri tabanı sunucudan doğrudan dışarı aktarılmıştır.
