@@ -38,7 +38,7 @@ $(document).keyup( function(e){
        <div class="row">
 
        	  <div class="col-12 search-box">
-       	  	<h2>Enter Username(TC) and Password</h2> </br>
+       	  	<h2>Enter Username and Password</h2> </br>
          <form class = "form-signin" role = "form" 
             action = "login.php" method = "post">
             <h4 class = "form-signin-heading"></h4>
