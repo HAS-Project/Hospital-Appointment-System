@@ -9,3 +9,4 @@
  - Sorun çözüldü, hastanın randevu aldıktan sonra anasayfaya dönmesi için href özelliği ile link yerleştirdim.
  - Veritabanında oluşturulan tablolar eklenecektir.
  - Has-Project Report sunumu güncellenmiştir.
+ - Güncel veri tabanı sisteme yüklendi.
