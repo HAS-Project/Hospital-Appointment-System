@@ -16,7 +16,7 @@ include('conn.php');
                 echo '<button class = "btn btn-lg btn-primary" type="submit" name="saatr" value="'.$name.'">'.$name.'</button> &nbsp';
             }
         }else{
-            // Eğer eşleşen kayıt yoksa alttaki uyarıyı ekrana basıyoruz.
+            // Eğer eşleşen kayıt yoksa alttaki uyarıyı ekrana yansıtıyoruz.
             
         }
     
