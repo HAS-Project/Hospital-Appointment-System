@@ -1,1 +1,2 @@
-
+Gerekli testler yapılmış ve raporlaştırılmıştır.
+Hastana randevu sistemini mobil ve pc platformunda test ettik ve video kaydını gerçekleştirdik.
