@@ -1,2 +1,2 @@
-Gerekli testler yapılmış ve raporlaştırılmıştır.
+Kullanıcının Hastane randevu sisteminin kullanılabilirlik testini gerçekleştirdik.
 Hastana randevu sistemini mobil ve pc platformunda test ettik ve video kaydını gerçekleştirdik.
