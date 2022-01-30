@@ -1,2 +1,3 @@
 Kullanıcının hastane randevu sisteminin kullanılabilirlik testini gerçekleştirdik.
 Hastana randevu sistemini mobil ve pc platformunda test ettik ve video kaydına aldık.
+Unit test ektedir, olumlu ve olumsuz durumlar.
